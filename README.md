@@ -43,7 +43,8 @@ with socket.create_connection((HOST, PORT)) as s:
 
 ```
 ## OUTPUT:
-![Uploading Screenshot 2025-03-03 140114.png…]()
+
+![Screenshot 2025-03-03 140114](https://github.com/user-attachments/assets/ef016a5e-cb1f-4548-a928-03cc30686b5a)
 
 ![Screenshot 2025-03-03 140132](https://github.com/user-attachments/assets/1af0777b-f712-4891-9863-d2a4760bded0)
 
