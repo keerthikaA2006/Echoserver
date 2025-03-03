@@ -43,8 +43,9 @@ with socket.create_connection((HOST, PORT)) as s:
 
 ```
 ## OUTPUT:
+![Uploading Screenshot 2025-03-03 140114.png…]()
 
-
+![Screenshot 2025-03-03 140132](https://github.com/user-attachments/assets/1af0777b-f712-4891-9863-d2a4760bded0)
 
 ## RESULT:
 The program is executed successfully
